@@ -18,6 +18,7 @@ La aplicación ToDo List es una herramienta útil para gestionar tareas. Permite
 ### Backend
 
 - **Responsable**: Oswaldo Henriquez
+- **Porcentaje**: 50%
 - **Detalles**:
   - Configuración de la base de datos SQLite utilizando Room.
   - Implementación del DAO (Data Access Object) para las operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
@@ -27,6 +28,7 @@ La aplicación ToDo List es una herramienta útil para gestionar tareas. Permite
 ### Frontend
 
 - **Responsable**: Diego
+- **Porcentaje**: 50%
 - **Detalles**:
   - Diseño e implementación de la interfaz de usuario utilizando Jetpack Compose.
   - Configuración de la navegación entre pantallas.
